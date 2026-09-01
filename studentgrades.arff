@@ -1,0 +1,15 @@
+@relation studentgrades
+@attribute Marks numeric
+@attribute Attendance numeric
+@attribute Result {pass,fail}
+@data
+85,90,pass
+78,85,pass
+92,95,pass
+35,40,fail
+40,50,fail
+88,92,pass
+30,35,fail
+70,75,pass
+60,65,pass
+25,30,fail

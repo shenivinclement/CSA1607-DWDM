@@ -1,0 +1,12 @@
+@relation books
+@attribute DataMining {yes,no}
+@attribute DBMS {yes,no}
+@attribute AI {yes,no}
+@attribute OS {yes,no}
+@data
+yes,yes,yes,no
+no,yes,no,yes
+yes,no,yes,no
+no,yes,yes,no
+yes,yes,no,yes
+no,no,yes,yes

@@ -1,0 +1,16 @@
+@relation apriori2
+@attribute B {yes,no}
+@attribute R {yes,no}
+@attribute E {yes,no}
+@attribute A {yes,no}
+@attribute D {yes,no}
+@attribute M {yes,no}
+@attribute U {yes,no}
+@attribute T {yes,no}
+@data
+yes,yes,yes,yes,yes,yes,no,no
+yes,yes,yes,yes,yes,yes,no,no
+yes,no,yes,no,no,yes,yes,no
+yes,yes,yes,yes,yes,no,yes,no
+yes,yes,yes,yes,yes,yes,no,no
+yes,no,no,no,no,yes,no,no

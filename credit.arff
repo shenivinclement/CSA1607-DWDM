@@ -1,0 +1,15 @@
+@relation credit
+@attribute age numeric
+@attribute income numeric
+@attribute student {yes,no}
+@attribute rating {fair,excellent}
+@attribute class {good,bad}
+@data
+25,1000,no,fair,good
+30,4000,no,excellent,good
+35,5000,yes,fair,bad
+40,6000,no,fair,good
+45,7000,yes,excellent,bad
+50,8000,no,excellent,good
+55,9000,yes,fair,bad
+60,10000,no,fair,good

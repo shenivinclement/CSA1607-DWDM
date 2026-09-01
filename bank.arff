@@ -1,0 +1,14 @@
+@relation bank
+@attribute age numeric
+@attribute balance numeric
+@attribute loan {yes,no}
+@attribute default {yes,no}
+@data
+25,1000,no,no
+30,1500,no,no
+35,2000,yes,yes
+40,2500,no,no
+45,3000,yes,yes
+50,3500,no,no
+55,4000,yes,yes
+60,4500,no,no

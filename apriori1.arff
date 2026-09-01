@@ -1,0 +1,14 @@
+@relation apriori1
+@attribute Rice {yes,no}
+@attribute Sugar {yes,no}
+@attribute Milk {yes,no}
+@attribute Tea {yes,no}
+@attribute Bread {yes,no}
+@attribute Butter {yes,no}
+@data
+yes,yes,yes,yes,no,no
+yes,no,yes,yes,yes,no
+no,no,yes,no,yes,yes
+yes,yes,no,yes,yes,no
+no,no,yes,no,yes,yes
+yes,yes,yes,yes,no,no
